@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<docentes>
+  <docente>
+    <nombre>sssss</nombre>
+    <numeroControl>5555555</numeroControl>
+    <especialidad>ti</especialidad>
+  </docente>
+  <docente>
+    <nombre>pepe</nombre>
+    <numeroControl>88888</numeroControl>
+    <especialidad>meca</especialidad>
+  </docente>
+  <docente>
+    <nombre>wicho</nombre>
+    <numeroControl>7777</numeroControl>
+    <especialidad>sistemas</especialidad>
+  </docente>
+</docentes>
